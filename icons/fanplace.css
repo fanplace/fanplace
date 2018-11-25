@@ -1,0 +1,70 @@
+@font-face {
+font-family: 'Fan Place';
+src: url('https://raw.githubusercontent.com/fanplace/fanplace/master/icons/fanplace.eot?caq1ur');
+src: url('https://raw.githubusercontent.com/fanplace/fanplace/master/icons/fanplace.eot?caq1ur#iefix') format('embedded-opentype'),
+url('https://raw.githubusercontent.com/fanplace/fanplace/master/icons/fanplace.ttf?caq1ur') format('truetype'),
+url('https://raw.githubusercontent.com/fanplace/fanplace/master/icons/fanplace.woff?caq1ur') format('woff'),
+url('https://raw.githubusercontent.com/fanplace/fanplace/master/icons/fanplace.svg?caq1ur#fanplace') format('svg');
+font-weight: normal;
+font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+font-family: 'Fan Place' !important;
+speak: none;
+font-style: normal;
+font-weight: normal;
+font-variant: normal;
+text-transform: none;
+line-height: 1;
+-webkit-font-smoothing: antialiased;
+-moz-osx-font-smoothing: grayscale;
+}
+
+.icon-archive:before {
+content: "\e900";
+}
+
+.icon-down:before {
+content: "\e901";
+}
+
+.icon-fanplace:before {
+content: "\e902";
+}
+
+.icon-fanplacemonogram:before {
+content: "\e903";
+}
+
+.icon-home:before {
+content: "\e904";
+}
+
+.icon-left:before {
+content: "\e905";
+}
+
+.icon-permalink:before {
+content: "\e906";
+}
+
+.icon-right:before {
+content: "\e907";
+}
+
+.icon-search:before {
+content: "\e908";
+}
+
+.icon-tumblr:before {
+content: "\e909";
+}
+
+.icon-tumblrmonogram:before {
+content: "\e90a";
+}
+
+.icon-up:before {
+content: "\e90b";
+}
