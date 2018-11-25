@@ -1,10 +1,10 @@
 @font-face {
 font-family: 'Fan Place';
-src: url('/fanplace.eot?caq1ur');
-src: url('/fanplace.eot?caq1ur#iefix') format('embedded-opentype'),
-url('/fanplace.ttf?caq1ur') format('truetype'),
-url('/fanplace.woff?caq1ur') format('woff'),
-url('/fanplace.svg?caq1ur#fanplace') format('svg');
+src: url('./fanplace.eot?caq1ur');
+src: url('./fanplace.eot?caq1ur#iefix') format('embedded-opentype'),
+url('./fanplace.ttf?caq1ur') format('truetype'),
+url('./fanplace.woff?caq1ur') format('woff'),
+url('./fanplace.svg?caq1ur#fanplace') format('svg');
 font-weight: normal;
 font-style: normal;
 }
